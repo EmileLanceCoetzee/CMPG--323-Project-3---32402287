@@ -4,4 +4,5 @@ Main Overview Repo: https://github.com/EmileLanceCoetzee/CMPG323-Overview-324022
 
 Project Link: https://github.com/users/EmileLanceCoetzee/projects/3
 
+Published Azure App: https://devicemanagementwebapp20220928180646.azurewebsites.net
 
