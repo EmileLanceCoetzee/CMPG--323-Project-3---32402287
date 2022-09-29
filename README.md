@@ -6,3 +6,6 @@ Project Link: https://github.com/users/EmileLanceCoetzee/projects/3
 
 Published Azure App: https://devicemanagementwebapp20220928180646.azurewebsites.net
 
+Guide to using the application:
+
+Follow this [link](https://devicemanagementwebapp20220928180646.azurewebsites.net) to run the app
